@@ -13,7 +13,7 @@ function App(){
             <div className="keypad">
                 <button id="clear"></button>
                 <button id="backspace"></button>
-                <button></button>
+                <button>Khushi</button>
                 <button></button>
                 <button></button>
                 <button></button>
